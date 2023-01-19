@@ -117,7 +117,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Allyson"
-    subtitle: "I build things for the web"
+    subtitle: "I'm a fourth year Cognitive Science of Language student at McMaster University "
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /images/hero.svg
     button:
