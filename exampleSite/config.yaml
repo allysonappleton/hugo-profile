@@ -118,7 +118,7 @@ params:
     intro: "Hi, my name is"
     title: "Allyson"
     subtitle: "I'm a fourth year Cognitive Science of Language student at McMaster University "
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: "I am eager to work on my programming skills throughout this semester in LINGUIST 4PL3: Advanced Programming."
     image: /images/hero.svg
     button:
       enable: true
