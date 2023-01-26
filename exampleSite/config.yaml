@@ -140,7 +140,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: ![headshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcpgear.com%2Fproducts%2Fsmiley-face&psig=AOvVaw0lpWfj5GwsrWi6s46NVk3R&ust=1674788000939000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjBy9Gd5PwCFQAAAAAdAAAAABAS)
+    image: "![trial](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.boredpanda.com%2Fdog-laying-sleeping-funny-positions-mood-the-real-paningning%2F&psig=AOvVaw1cNRd5Bd14XRBBXg5nXZOm&ust=1674788752684000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKiw9Leg5PwCFQAAAAAdAAAAABAE)"
     content: |-
       I am a fourth year Cognitive Science of Language at McMaster University. Being in this program has allowed me to explore my interests while also being able to develop valuable skills. 
       My interests include language acquisition (L1 and L2) as well as linguistic and speech analysis. 
@@ -148,7 +148,7 @@ params:
 
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "The technologies I've been working with recently:"
       items:
         - "R"
         - "Praat"
@@ -156,7 +156,7 @@ params:
   # Description of Portfolio
   experience:
     enable: true
-    # title: "Custom Name"
+    # title: "Description"
     items:
       - job: "Senior Software Developer"
         company: "Facebook"
@@ -168,55 +168,11 @@ params:
           url: "https://example.com"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+     
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+     
+     
 
   # Education
   education:
