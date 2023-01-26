@@ -154,20 +154,19 @@ params:
         - "Praat"
 
   # Description of Portfolio
-  description of portfolio:
+  experience:
     enable: true
     # title: "Description"
     items:
       - job: "**Who is the audience of my portfolio?**"
         company: "Audience"
         companyUrl: "https://example.com"
+        date: "Jan 2022 - present"
         featuredLink:
           enable: true
           name: "McMaster University"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-
+          url: "https://www.mcmaster.ca/"
+        content: "The potential audience of my portfolio are fellow McMaster students, such as those in [Cognitive Science of Language](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/cognitive-science-of-language/) program"
      
 
      
