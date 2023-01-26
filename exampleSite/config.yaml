@@ -158,17 +158,27 @@ params:
     enable: true
     # title: "Description"
     items:
-      - job: "**Who is the audience of my portfolio?**"
+      - job: "Who is the audience of my portfolio?"
         company: "Audience"
         companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
         featuredLink:
           enable: true
           name: "McMaster University"
           url: "https://www.mcmaster.ca/"
-        content: "The potential audience of my portfolio are fellow McMaster students, such as those in [Cognitive Science of Language](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/cognitive-science-of-language/) program"
+        content: "The potential audience of my portfolio are fellow McMaster students, such as those in [Cognitive Science of Language](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/cognitive-science-of-language/) program or any program. I would also like my portfolio to be viewed by future employers or graduate schools."
      
-
+experience:
+    enable: true
+    # title: "Description"
+    items:
+      - job: "What is the goal of my portfolio?"
+        company: "The Goal"
+        companyUrl: "https://example.com"
+        featuredLink:
+          enable: true
+          name: "McMaster University"
+          url: "https://www.mcmaster.ca/"
+        content: "The potential audience of my portfolio are fellow McMaster students, such as those in [Cognitive Science of Language](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/cognitive-science-of-language/) program or any program. I would also like my portfolio to be viewed by future employers or graduate schools."
      
      
 
