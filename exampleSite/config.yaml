@@ -158,7 +158,7 @@ params:
     enable: true
     # title: "Description"
     items:
-      - job: "Who is the audience of my portfolio?"
+      - job: "Who is the audience of my portfolio? "
         company: "Audience"
         companyUrl: "https://example.com"
         featuredLink:
@@ -166,7 +166,6 @@ params:
           name: "McMaster University"
           url: "https://www.mcmaster.ca/"
         content: "The potential audience of my portfolio are fellow McMaster students, such those in [Cognitive Science of Language](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/cognitive-science-of-language/) or [Linguistics](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/linguistics/) program. I am also interested in my porfilio being viewed by future employers or graduate schools!"
-     
        - job: "What is the goal of my portfolio?"
         company: "The Goal"
         companyUrl: "https://example.com"
@@ -175,7 +174,6 @@ params:
           name: "McMaster University"
           url: "https://www.mcmaster.ca/"
         content: "The goal of my portfolio is provide resources to linguists who are interested in speech and language analysis, through softwares such as Praat."
-
        - job: "What programs do I want to include?"
         company: "Potential Programs"
         companyUrl: "https://example.com"
