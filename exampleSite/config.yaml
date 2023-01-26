@@ -117,7 +117,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Allyson"
-    subtitle: "I'm a fourth year Cognitive Science of Language student at McMaster University "
+    subtitle: "Welcome to my Portfolio!"
     content: "I am eager to work on my programming skills throughout this semester in LINGUIST 4PL3: Advanced Programming."
     image: /images/hero.svg
     button:
