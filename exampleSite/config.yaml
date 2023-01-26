@@ -153,37 +153,6 @@ params:
         - "R"
         - "[Praat](https://www.fon.hum.uva.nl/praat/)"
 
-  # Description of Portfolio
-  experience:
-    enable: true
-    # title: "Description"
-    items:
-      - job: "Who is the audience of my portfolio? "
-        company: "Audience"
-        companyUrl: "https://example.com"
-        featuredLink:
-          enable: true
-          name: "McMaster University"
-          url: "https://www.mcmaster.ca/"
-        content: "The potential audience of my portfolio are fellow McMaster students, such those in [Cognitive Science of Language](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/cognitive-science-of-language/) or [Linguistics](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/linguistics/) program. I am also interested in my porfilio being viewed by future employers or graduate schools!"
-       - job: "What is the goal of my portfolio?"
-        company: "The Goal"
-        companyUrl: "https://example.com"
-        featuredLink:
-          enable: true
-          name: "McMaster University"
-          url: "https://www.mcmaster.ca/"
-        content: "The goal of my portfolio is provide resources to linguists who are interested in speech and language analysis, through softwares such as Praat."
-       - job: "What programs do I want to include?"
-        company: "Potential Programs"
-        companyUrl: "https://example.com"
-        featuredLink:
-          enable: true
-          name: "McMaster University"
-          url: "https://www.mcmaster.ca/"
-        content: "I would like to include programs that will analyze speech and phonetic data from Praat. As well as, functions that will make data anylyses more convenient for linguists."
-     
-
   # Education
   education:
     enable: true
