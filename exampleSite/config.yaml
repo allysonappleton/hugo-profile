@@ -166,12 +166,12 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: " Bachelor of Arts in Honours Cognitive Science of Language"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
+          name: "McMaster University"
+          url: "https://www.mcmaster.ca/"
+        date: "2019 - 2023"
+        GPA: "NA"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
