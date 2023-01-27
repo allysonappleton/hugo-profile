@@ -129,7 +129,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
+          url:  https://github.com/allysonappleton
         - icon: fab fa-twitter
           url: https://example.com
       customIcons:
@@ -179,7 +179,7 @@ params:
         featuredLink:
           enable: true
           name: "Linkedin"
-          url: "https://www.linkedin.com/in/allyson-appleton-a01621227/"
+          url: "https://www.linkedin.com/in/allysonappleton/"
       - title: "High School Diploma"
         school:
           name: "Cardinal Carter Catholic High School"
@@ -283,11 +283,11 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
+      github: https://github.com/allysonappleton
+      linkedin: https://www.linkedin.com/in/allysonappleton/
       twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      instagram: https://www.instagram.com/allysonappleton/
+      facebook: https://www.facebook.com/allyson.appleton.90
 
   # List pages like blogs and posts
   listPages:
