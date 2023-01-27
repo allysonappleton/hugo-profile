@@ -171,7 +171,7 @@ params:
           name: "McMaster University"
           url: "https://www.mcmaster.ca/"
         date: "2019 - 2023"
-        GPA: "NA"
+        GPA: "N/A"
         content: |-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
@@ -180,32 +180,18 @@ params:
           enable: true
           name: "Linkedin"
           url: "https://www.linkedin.com/in/allyson-appleton-a01621227/"
-      - title: "Bachelor of Science in Computer Science"
+      - title: "High School Diploma"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+          name: "Cardinal Carter Catholic High School"
+        date: "2015 - 2019"
+        GPA: "N/A"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          Student in the International Baccalaureate® (IB) program. 
         featuredLink:
           enable: true
-          name: "My academic record"
-          url: "https://example.com"
-      - title: "High School"
-        school:
-          name: "Thomas Jefferson High School for Science and Technology."
-          url: "https://example.org"
-        GPA: "4.2 out of 5.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "IB Program"
+          url: "https://www.ibo.org/"
+      
 
   # Achievements
   achievements:
