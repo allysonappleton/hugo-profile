@@ -217,8 +217,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      - title: The Text Analyzer
+        content: This app makes stringr functions and regex available to users (i.e linguists), which will allow them to analyze various texts.
         image: /images/projects/profile.png
         featured:
           name: Demo
