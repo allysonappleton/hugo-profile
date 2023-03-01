@@ -268,7 +268,7 @@ params:
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll get back to you!
     email: allyson.appleton@gmail.com
-    btnName: e-mail me!
+    btnName: email me!
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
