@@ -222,7 +222,7 @@ params:
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: http://127.0.0.1:3413
         badges:
           - "Hugo"
           - "Bootstrap"
