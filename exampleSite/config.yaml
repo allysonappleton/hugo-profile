@@ -219,7 +219,7 @@ params:
     items:
       - title: The Text Analyzer
         content: This app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts.
-        image: /images/projects/textanalyzerdemo.png
+        image: Home/hugoprofile/images/textanalyzerdemo.png
         featured:
           name: Demo
           link: http://127.0.0.1:3413
