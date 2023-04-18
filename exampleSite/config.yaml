@@ -217,8 +217,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: The Text Analyzer
-        content: This app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts.
+      - title: Consonant Cluster Hunter
+        content: This app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts by finding consonant clusters placed in different positions in a word.
         image: /images/projects/profile.png
         featured:
           name: Demo
