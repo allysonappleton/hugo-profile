@@ -257,7 +257,7 @@ params:
         badges:
           - "Web-based app"
           - "Regex"
-          - "Stringr functions"
+          - "Stringr"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
