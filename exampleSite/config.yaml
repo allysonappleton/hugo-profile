@@ -222,7 +222,7 @@ params:
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link:https://vo38c1-allyson-appleton.shinyapps.io/consonantclusterhunter/
+          link: https://vo38c1-allyson-appleton.shinyapps.io/consonantclusterhunter/
         badges:
           - "Hugo"
           - "Bootstrap"
