@@ -149,7 +149,7 @@ params:
             - Social Media Director for SciWise
         featuredLink:
           enable: true
-          name: "Linkedin"
+          name: "LinkedIn"
           url: "https://www.linkedin.com/in/allysonappleton/"
       - title: "High School Diploma"
         school:
