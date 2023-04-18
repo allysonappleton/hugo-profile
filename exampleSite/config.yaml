@@ -154,7 +154,7 @@ params:
 
 
     skills:
-      enable: true
+      enable: false
       title: "The technologies I've been working with recently:"
       items:
         - "R"
@@ -195,7 +195,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Google kickstart runner
@@ -227,6 +227,7 @@ params:
           - "Web-Based App"
           - "Stringr"
           - "Regex"
+          - "shinyApp"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
