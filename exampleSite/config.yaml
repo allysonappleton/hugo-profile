@@ -255,9 +255,9 @@ params:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Web-based app"
+          - "Regex"
+          - "Stringr functions"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
