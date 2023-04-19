@@ -111,7 +111,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: /images/frog.png
+    image: /images/hero.svg
     content: |-
       I am a fourth year Cognitive Science of Language at McMaster University. Being in this program has allowed me to explore my interests while also being able to develop valuable skills. 
       My interests include language acquisition (L1 and L2), corpus linguistics, as well as linguistic and speech analysis. 
