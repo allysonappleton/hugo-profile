@@ -208,7 +208,7 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Introductory Lesson on Regular Expression
+      - title: Introductory Lesson on Regular Expressions
         content: A swirl course designed to provide learners with a foundation in using regular expressions in R. This course is intended to complement my Consonant Cluster Hunter app,as it offers users a behind-the-scenes look at the code (regular expressions) used to identify patterns, like consonant clusters.
         image: /images/projects/regex.png
         featured:
