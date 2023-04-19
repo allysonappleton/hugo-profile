@@ -207,15 +207,15 @@ params:
           - icon: fab fa-twitter
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Swirl Course: Introductory Lesson on Regular Expressions
-        content: A swirl course designed to provide learners with a foundation in using regular expressions in R. This course is intended to complement my Consonant Cluster Hunter app, as it offers users a behind-the-scenes look at the code (regular expressions) used to identify patterns, like consonant clusters.
+      - title: Swirl Course - Introductory Lesson on Regular Expression
+        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
         image: /images/projects/converter.jpg
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
         badges:
-          - "Swirl Course"
-          - "Regex"
+          - "Django"
+          - "Bootstrap"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
