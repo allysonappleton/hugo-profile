@@ -216,7 +216,6 @@ params:
         badges:
           - "Swirl Course"
           - "Regex"
-          - "Stringr"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
