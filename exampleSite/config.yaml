@@ -134,7 +134,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # title: "Custom Name"
     index: false
     items:
