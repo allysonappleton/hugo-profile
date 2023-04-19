@@ -120,8 +120,9 @@ params:
       
       **The goal of my portfolio** is to provide resources to linguists who are interested in speech and language analysis, through programs and web-based apps.
       
-      So far, I have created 3 projects that will make text analysis more convenient for linguists: 1. A shiny app that identifies consonant clusters 2. An swirl course that teaches users about regex 3. An advanced function that counts the number of morphemes in a word
-      In the future, I would like to include **programs** that will analyze speech and phonetic data from Praat. 
+      So far, I have created 3 projects that will make text analysis more convenient for linguists: 1. A shiny app that identifies consonant clusters. 2. A swirl course that teaches users about regex. 3. An advanced function that counts the number of morphemes in a word.
+      
+      In the future, I would like to include programs that will analyze speech and phonetic data from Praat. 
 
 
     skills:
