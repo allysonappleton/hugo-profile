@@ -230,7 +230,7 @@ params:
         badges:
           - "R"
           - "Advanced Function"
-          - "Regex"
+          - "Morphemes"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
