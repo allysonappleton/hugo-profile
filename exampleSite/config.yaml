@@ -189,13 +189,13 @@ params:
     # title: "Custom Name"
     items:
       - title: Consonant Cluster Hunter
-        content: This app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts by finding consonant clusters placed in different positions in a word. Click demo to use the app!
+        content: This web-based app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts by finding consonant clusters placed in different positions in a word. Click demo to use the app!
         image: /images/projects/ConsonantClusterHunter.png
         featured:
           name: Demo
           link: https://vo38c1-allyson-appleton.shinyapps.io/consonantclusterhunter/
         badges:
-          - "Web-Based App"
+          - "R"
           - "Stringr"
           - "Regex"
           - "shinyApp"
@@ -214,6 +214,7 @@ params:
           name: Demo
           link: https://django-converter.herokuapp.com
         badges:
+          - "R"
           - "Swirl Course"
           - "Regex"
         links:
@@ -229,7 +230,7 @@ params:
         badges:
           - "Advanced Function"
           - "Regex"
-          - "Tool"
+          - "R"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
