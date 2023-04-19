@@ -222,7 +222,7 @@ params:
             url: https://github.com/gurusabarish/converter
 
       - title: Morpheme Counter
-        content: An advanced function that counts the number of morphemes in a word. Now, you can quickly and easily count the number of morphemes in any English word, providing you with valuable insights into its underlying structure!
+        content: An advanced function that counts the number of morphemes in a word. Now, you can quickly and easily count the number of morphemes in any English word, leading to valuable insights into its underlying structure!
         image: /images/projects/profile2.jpg
         featured:
           name: Demo V2
