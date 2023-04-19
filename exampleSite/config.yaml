@@ -235,6 +235,29 @@ params:
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
+        code:
+    lang: R
+    source: |
+      morpheme_counter <- function(word) {
+        prefixes <- c("anti", "de", "dis", "ex", "in", "pre", "re", "un")
+        suffixes <- c("able", "al", "ed", "en", "er", "ful", "ing", "ion", "ish", "less", "ly", "ment", "ness", "ous", "s")
+        num_morphemes <- 1
+        for (prefix in prefixes) {
+          if (startsWith(word, prefix)) {
+            num_morphemes <- num_morphemes + 1
+            word <- substring(word, nchar(prefix) + 1)
+          }
+        }
+
+        for (suffix in suffixes) {
+          if (endsWith(word, suffix)) {
+            num_morphemes <- num_morphemes + 1
+            word <- substring(word, 1, nchar(word) - nchar(suffix))
+          }
+        }
+
+        return(num_morphemes)
+      }
 
   #Contact
   contact:
