@@ -89,7 +89,7 @@ params:
     intro: "Hi, my name is"
     title: "Allyson"
     subtitle: "Welcome to my Portfolio!"
-    content: "I am eager to work on my programming skills throughout this semester in LINGUIST 4PL3: Advanced Programming."
+    content: "I am eager to work on my programming skills throughout this semester in LINGUIST 4PL3: Advanced Programming for Linguists."
     image: /images/high.png
     button:
       enable: true
@@ -116,7 +116,7 @@ params:
       I am a fourth year Cognitive Science of Language at McMaster University. Being in this program has allowed me to explore my interests while also being able to develop valuable skills. 
       My interests include language acquisition (L1 and L2), corpus linguistics, as well as linguistic and speech analysis. 
       
-      **The potential audience of my portfolio** are fellow McMaster students, such those in [Cognitive Science of Language](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/cognitive-science-of-language/) or [Linguistics](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/linguistics/) program, as well as language teachers! I am also interested in my portfolio being viewed by future employers and graduate schools.
+      **The potential audience of my portfolio** are fellow McMaster students, such those in [Cognitive Science of Language](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/cognitive-science-of-language/) or [Linguistics](https://linguistics.humanities.mcmaster.ca/undergraduate-programs/linguistics/) program, as well as linguists and language teachers!
       
       **The goal of my portfolio** is to provide resources to linguists who are interested in speech and language analysis, through programs, web-based apps, and functions.
       
