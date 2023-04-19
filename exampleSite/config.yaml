@@ -228,9 +228,9 @@ params:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
         badges:
+          - "R"
           - "Advanced Function"
           - "Regex"
-          - "R"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/HugoProfileV2
