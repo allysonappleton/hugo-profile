@@ -90,7 +90,7 @@ params:
     title: "Allyson"
     subtitle: "Welcome to my Portfolio!"
     content: "I am eager to work on my programming skills throughout this semester in LINGUIST 4PL3: Advanced Programming."
-    image: /images/hero.svg
+    image: /images/corgi.jpeg
     button:
       enable: true
       name: "Resume"
