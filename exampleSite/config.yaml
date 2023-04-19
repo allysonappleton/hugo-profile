@@ -224,7 +224,7 @@ params:
 
       - title: Morpheme Counter
         content: An advanced function that counts the number of morphemes in a word. Now, you can quickly and easily count the number of morphemes in any English word, leading to valuable insights into its underlying structure!
-        image: /images/projects/profile2.jpg
+        image: /images/projects/words.png
         featured:
           name: Demo V2
           link: https://hugo-profile-2.netlify.app
