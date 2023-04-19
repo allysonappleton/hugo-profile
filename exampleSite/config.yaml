@@ -210,7 +210,7 @@ params:
 
       - title: Introductory Lesson on Regular Expression
         content: A swirl course designed to provide learners with a foundation in using regular expressions in R. This course is intended to complement my Consonant Cluster Hunter app,as it offers users a behind-the-scenes look at the code (regular expressions) used to identify patterns, like consonant clusters.
-        image: /images/projects/converter.jpg
+        image: /images/projects/regex.png
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
