@@ -221,8 +221,8 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-      - title: Advanced Function
-        content: A clean and simple Hugo template for personal portfolio and blog.
+      - title: Morpheme Counter
+        content: An advanced function that counts the number of morphemes in a word. Now, you can quickly and easily count the number of morphemes in any English word, providing you with valuable insights into its underlying structure!
         image: /images/projects/profile2.jpg
         featured:
           name: Demo V2
