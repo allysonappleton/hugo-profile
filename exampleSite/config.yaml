@@ -101,6 +101,11 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url:  https://github.com/allysonappleton
+        - icon: fab fa-twitter
+          url: https://example.com
+      customIcons:
+        - icon: /fav.png
+          url: https://tenor.com/en-GB/view/quby-chan-hi-wave-hello-hi-there-gif-17010845
 
   # About
   about:
