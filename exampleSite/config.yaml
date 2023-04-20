@@ -190,7 +190,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Consonant Cluster Hunter
-        content: This web-based app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts by finding consonant clusters placed in different positions in a word. 
+        content: This web-based app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts by finding consonant clusters placed in different positions in a word. Click on the github icon to view the code!
         image: /images/projects/ConsonantClusterHunter.png
         featured:
           name: Check out the app here!
