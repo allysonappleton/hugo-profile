@@ -234,7 +234,7 @@ params:
   contact:
     enable: true
     # title: "Custom Name"
-    content: My inbox is always open. Whether you have a question or just want to say hi, I’ll get back to you! Also, check out my social networks linked below!
+    content: Feel free to email me, I’ll get back to you! Also, check out my social networks linked below :)
     email: allyson.appleton@gmail.com
     btnName: email me!
     # formspree:
