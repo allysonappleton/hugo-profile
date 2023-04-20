@@ -104,8 +104,8 @@ params:
         - icon: fab fa-twitter
           url: https://example.com
       customIcons:
-        - icon: /fav.png
-          url: https://tenor.com/en-GB/view/quby-chan-hi-wave-hello-hi-there-gif-17010845
+        - icon: /please.png
+          url: https://media.tenor.com/EbsMN6_dOvYAAAAC/quby-chan-hi.gif
 
   # About
   about:
