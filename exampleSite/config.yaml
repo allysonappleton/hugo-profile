@@ -190,7 +190,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Consonant Cluster Hunter
-        content: This web-based app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts by finding consonant clusters placed in different positions in a word. Click on the github icon to view the code!
+        content: This web-based app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts by finding consonant clusters placed in different positions in a word. Click on the GitHub icon to view the code!
         image: /images/projects/ConsonantClusterHunter.png
         featured:
           name: Check out the app here!
@@ -223,14 +223,14 @@ params:
         image: /images/projects/words.png
         featured:
           name: Get the code here!
-          link: https://hugo-profile-2.netlify.app
+          link: https://github.com/allysonappleton/Final-Portfolio/blob/main/Morpheme%20Counter/Advanced%20Function%20Code
         badges:
           - "R"
           - "Advanced Function"
           - "Morphemes"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/allysonappleton/Final-Portfolio/blob/main/Morpheme%20Counter/Advanced%20Function%20Code
 
   #Contact
   contact:
