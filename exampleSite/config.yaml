@@ -89,7 +89,7 @@ params:
     intro: "Hi, my name is"
     title: "Allyson"
     subtitle: "Welcome to my Portfolio!"
-    content: "I am eager to work on my programming skills throughout this semester in LINGUIST 4PL3: Advanced Programming for Linguists. To access my final portfolio repository, click on the GitHub icon below. For a surpise, click on the heart!"
+    content: "I am eager to work on my programming skills throughout this semester in LINGUIST 4PL3: Advanced Programming for Linguistics. To access my final portfolio repository, click on the GitHub icon below. For a surpise, click on the heart!"
     image: /images/high.png
     button:
       enable: false
