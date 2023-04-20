@@ -101,10 +101,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url:  https://github.com/allysonappleton
-        - icon: fab fa-twitter
-          url: https://example.com
       customIcons:
-        - icon: /please.png
+        - icon: /emoji.png
           url: https://media.tenor.com/EbsMN6_dOvYAAAAC/quby-chan-hi.gif
 
   # About
