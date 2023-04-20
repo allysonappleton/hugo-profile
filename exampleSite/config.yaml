@@ -92,7 +92,7 @@ params:
     content: "I am eager to work on my programming skills throughout this semester in LINGUIST 4PL3: Advanced Programming for Linguists."
     image: /images/high.png
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "#"
       download: true
