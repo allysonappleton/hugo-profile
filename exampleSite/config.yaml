@@ -198,35 +198,35 @@ params:
           - "shinyApp"
         links:
           - icon: fab fa-github
-            url: https://github.com/allysonappleton/Final-Portfolio/blob/main/Consonant%20Cluster%20Hunter/Shiny%20App%20Code
+            url: https://github.com/allysonappleton/Final-Portfolio/blob/main/Consonant%20Cluster%20Hunter/app.R
 
       - title: Introductory Lesson on Regular Expressions
         content: A swirl course designed to provide learners with a foundation in using regular expressions in R. This course is intended to complement my Consonant Cluster Hunter app,as it offers users a behind-the-scenes look at the code (regular expressions) used to identify patterns, like consonant clusters.
         image: /images/projects/regex.png
         featured:
           name: Get the code here!
-          link: https://django-converter.herokuapp.com
+          link: https://github.com/allysonappleton/Final-Portfolio/blob/main/Introductory%20Lesson%20on%20Regular%20Expressions/lesson.yaml
         badges:
           - "R"
           - "Swirl Course"
           - "Regex"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/allysonappleton/Final-Portfolio/blob/main/Introductory%20Lesson%20on%20Regular%20Expressions/lesson.yaml
 
       - title: Morpheme Counter
         content: An advanced function that counts the number of morphemes in a word. Now, you can quickly and easily count the number of morphemes in any English word, leading to valuable insights into its underlying structure!
         image: /images/projects/words.png
         featured:
           name: Get the code here!
-          link: https://github.com/allysonappleton/Final-Portfolio/blob/main/Morpheme%20Counter/Advanced%20Function%20Code
+          link: https://github.com/allysonappleton/Final-Portfolio/blob/main/Morpheme%20Counter/morpheme_counter.R
         badges:
           - "R"
           - "Advanced Function"
           - "Morphemes"
         links:
           - icon: fab fa-github
-            url: https://github.com/allysonappleton/Final-Portfolio/blob/main/Morpheme%20Counter/Advanced%20Function%20Code
+            url: https://github.com/allysonappleton/Final-Portfolio/blob/main/Morpheme%20Counter/morpheme_counter.R
 
   #Contact
   contact:
