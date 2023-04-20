@@ -100,7 +100,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url:  https://github.com/allysonappleton
+          url:  https://github.com/allysonappleton/Final-Portfolio
       customIcons:
         - icon: /hearts.png
           url: https://media.itsnicethat.com/original_images/giphy-2021-gifs-and-clips-animation-itsnicethat-02.gif
