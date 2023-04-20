@@ -190,7 +190,7 @@ params:
     # title: "Custom Name"
     items:
       - title: Consonant Cluster Hunter
-        content: This web-based app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts by finding consonant clusters placed in different positions in a word.
+        content: This web-based app makes stringr functions and regex available to users (i.e. linguists), which will allow them to analyze various texts by finding consonant clusters placed in different positions in a word. [Check out the app here!](https://vo38c1-allyson-appleton.shinyapps.io/consonantclusterhunter/)
         image: /images/projects/ConsonantClusterHunter.png
         featured:
           name: Check out the app here!
@@ -212,7 +212,7 @@ params:
         content: A swirl course designed to provide learners with a foundation in using regular expressions in R. This course is intended to complement my Consonant Cluster Hunter app,as it offers users a behind-the-scenes look at the code (regular expressions) used to identify patterns, like consonant clusters.
         image: /images/projects/regex.png
         featured:
-          name: Demo
+          name: Get the code here!
           link: https://django-converter.herokuapp.com
         badges:
           - "R"
@@ -226,7 +226,7 @@ params:
         content: An advanced function that counts the number of morphemes in a word. Now, you can quickly and easily count the number of morphemes in any English word, leading to valuable insights into its underlying structure!
         image: /images/projects/words.png
         featured:
-          name: Demo V2
+          name: Get the code here!
           link: https://hugo-profile-2.netlify.app
         badges:
           - "R"
