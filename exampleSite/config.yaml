@@ -204,7 +204,7 @@ params:
         content: A swirl course designed to provide learners with a foundation in using regular expressions in R. This course is intended to complement my Consonant Cluster Hunter app,as it offers users a behind-the-scenes look at the code (regular expressions) used to identify patterns, like consonant clusters.
         image: /images/projects/regex.png
         featured:
-          name: Get the code here!
+          name: View the code here!
           link: https://github.com/allysonappleton/Final-Portfolio/blob/main/Introductory%20Lesson%20on%20Regular%20Expressions/lesson.yaml
         badges:
           - "R"
@@ -218,7 +218,7 @@ params:
         content: An advanced function that counts the number of morphemes in a word. Now, you can quickly and easily count the number of morphemes in any English word, leading to valuable insights into its underlying structure!
         image: /images/projects/words.png
         featured:
-          name: Get the code here!
+          name: View the code here!
           link: https://github.com/allysonappleton/Final-Portfolio/blob/main/Morpheme%20Counter/morpheme_counter.R
         badges:
           - "R"
